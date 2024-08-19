@@ -1,0 +1,2 @@
+# FacadePatternSourceCode
+ファサードパターンについて勉強した時作成したソースコードです。
