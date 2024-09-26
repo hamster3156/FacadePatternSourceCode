@@ -6,11 +6,11 @@ public class PlayerPositionManager
     {
         if (moveDir != Vector2.zero)
         {
-            Debug.Log("ƒvƒŒƒCƒ„[‚ªˆÚ“®‚µ‚Ä‚¢‚é");
+            Debug.Log("ãƒ—ãƒ¬ã‚¤ãƒ¤ãƒ¼ãŒç§»å‹•ã—ã¦ã„ã‚‹");
         }
         else
         {
-            Debug.Log("ƒvƒŒƒCƒ„[‚ªŽ~‚Ü‚Á‚Ä‚¢‚é");
+            Debug.Log("ãƒ—ãƒ¬ã‚¤ãƒ¤ãƒ¼ãŒæ­¢ã¾ã£ã¦ã„ã‚‹");
         }
     }
 }
